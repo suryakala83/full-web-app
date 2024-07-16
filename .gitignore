@@ -1,0 +1,8 @@
+Backend/TodoApp/bin
+Backend/TodoApp/obj
+Backend/.vs
+Backend/TodoApp.Data/bin
+Backend/TodoApp.Data/obj
+Backend/TodoApp.Service/bin
+Backend/TodoApp.Service/obj
+Backend/TodoApp/Logs
